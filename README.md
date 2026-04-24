@@ -34,3 +34,5 @@ GET /students
     "department": "Computer Engineering"
   }
 ]
+
+<img width="1600" height="988" alt="screenshots_get" src="https://github.com/user-attachments/assets/b4e2f797-e532-4226-ae85-f71f218df377" />
