@@ -23,7 +23,7 @@ pip install flask
 python app.py
 
 
-** Örnek JSON response 
+## Örnek JSON response 
 
 GET /students
 
