@@ -21,3 +21,16 @@ Bu projem Flask kullanılarak geliştirdiğim basit bir REST API örneğidir.
 ```bash
 pip install flask
 python app.py
+
+
+** Örnek JSON response 
+
+GET /students
+
+[
+  {
+    "id": 1,
+    "name": "Azize",
+    "department": "Computer Engineering"
+  }
+]
